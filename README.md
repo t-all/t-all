@@ -23,6 +23,7 @@
 
 ![](https://img.shields.io/badge/Tools:-informational?style=for-the-badge&logoColor=white&color=grey)
 
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=green)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=green)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=green)
