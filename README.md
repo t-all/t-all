@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=green)
 ![](https://img.shields.io/badge/SpringSequrity-informational?style=flat&logo=Spring-Security&logoColor=white&color=green)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=green)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=green)
 
